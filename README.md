@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 
+<script data-ad-client="ca-pub-9381163373943682" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 You can use the [editor on GitHub](https://github.com/chiragnahata/chiragnahata.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
