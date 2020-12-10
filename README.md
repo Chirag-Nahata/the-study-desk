@@ -1,3 +1,5 @@
+# The Study Desk 
+
 **Privacy Policy**
 
 Chirag Nahata built the The Study Desk app as a Free app. This SERVICE is provided by Chirag Nahata at no cost and is intended for use as is.
